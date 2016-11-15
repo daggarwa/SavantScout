@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Savant Scout</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_score">ScoreActivity</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_calendar">CalendarActivity</string>
+    <string name="textView14">0</string>
+
+    <string-array name="days_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>
